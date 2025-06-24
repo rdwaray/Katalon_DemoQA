@@ -1,6 +1,6 @@
 # Katalon_DemoQA
 Ini adalah repositori framework pengujian Web UI, dibangun dengan Katalon. 
-Framework ini dibuat untuk pengetesan otomatis dengan struktur modular, dan implementasi Data-driven testing,
+Framework ini dibuat untuk pengetesan otomatis dengan struktur modular, dan implementasi Data-driven testing.
 
 ##Struktur Folder
 - **Test_Cases/DemoQA/**: Berisi kumpulan kode pengujian fitur yang dipisahkan sesuai Test Case Suites.
